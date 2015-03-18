@@ -11,7 +11,6 @@ var plumber    = require('gulp-plumber');
 var livereload = require('gulp-livereload');
 var bower      = require('gulp-bower');
 
-
 var pathImgSrc               ='./src/images/**/*';
 var pathImgDest              ='./build/images';
 var pathHtmlSrc              = ['./src/*.php','./src/*.html'];
